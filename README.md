@@ -5,7 +5,7 @@ The aim is to provide ease in the problem of trading that is faced by financial 
 
 The project describes about the stock price market by using linear regression model for now. It will be updated with the option of chosing your favourite algortihm to find the stock price in the market.
 
-#Packages and Libraries used
+# Packages and Libraries used
 Numpy
 pandas
 Sci-kit
