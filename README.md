@@ -4,3 +4,8 @@ Stock market analysis is the act of determining the future value of a company’
 The aim is to provide ease in the problem of trading that is faced by financial Investors. Also, help the people who are thinking of making their own stock in the stock market whether their stock will be successful or not.
 
 The project describes about the stock price market by using linear regression model for now. It will be updated with the option of chosing your favourite algortihm to find the stock price in the market.
+
+#Packages and Libraries used
+Numpy
+pandas
+Sci-kit
